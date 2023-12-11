@@ -1,0 +1,28 @@
+.admin-dashboard {
+    display: flex;
+    justify-content: space-around;
+    padding: 20px;
+  }
+  
+  .dashboard-card {
+   background-color: #f5f7f8 ;/*White background for the card */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle effect */
+    text-align: center;
+    width: 200px;
+    margin: 10px;
+  }
+  
+  .dashboard-card button {
+    margin-top: 10px;
+  }
+  
+  .body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    background-color: #001f3f; /* Dark blue background color */
+   
+  }

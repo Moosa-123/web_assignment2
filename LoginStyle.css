@@ -1,0 +1,17 @@
+
+
+.login-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh; /* Full viewport height */
+    background-color: #001f3f; /* Dark blue background color */
+  }
+  
+  .login-card {
+    background-color: #ffffff; /* White background for the card */
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Box shadow for a subtle effect */
+  }
+  
